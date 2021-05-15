@@ -4,9 +4,9 @@ Uses HSV color space to track two points of a handheld object. Based on their or
 Note: a gif demo (temp.gif) is also present
 
 # Requirements
-pip install numpy
-pip install opencv-python
-pip install pygame
+1. pip install numpy
+2. pip install opencv-python
+3. pip install pygame
 
 # To run:
 python3 final.py
