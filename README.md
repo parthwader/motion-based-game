@@ -1,7 +1,7 @@
 # motion-based-game
 Uses HSV color space to track two points of a handheld object. Based on their orientation (angle with horizontal), the car moves accordingly.
 
-Note: a gif demo (temp.gif) is also present
+# Note: a gif demo (temp.gif) is also present
 
 # Requirements
 1. pip install numpy
